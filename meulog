@@ -1,0 +1,11 @@
+2024-07-19 20:31:30.128 | ERROR    | __main__:<module>:13 - Uma exceção foi capturada
+Traceback (most recent call last):
+
+> File "C:\Users\Administrador\Documents\workspace\jornada\bootcamp\aula009\main.py", line 11, in <module>
+    minha_funcao()
+    └ <function minha_funcao at 0x000001EAE4F3A3E0>
+
+  File "C:\Users\Administrador\Documents\workspace\jornada\bootcamp\aula009\main.py", line 4, in minha_funcao
+    raise ValueError("Um erro aconteceu!")
+
+ValueError: Um erro aconteceu!

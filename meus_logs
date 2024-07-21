@@ -1,0 +1,3 @@
+2024-07-19 20:04:58.735 | INFO     | __main__:<module>:5 - Isso é uma mensagem informativa
+2024-07-19 20:04:58.736 | WARNING  | __main__:<module>:6 - Isso é uma mensagem informativa
+2024-07-19 20:04:58.736 | CRITICAL | __main__:<module>:7 - Isso é uma mensagem informativa
